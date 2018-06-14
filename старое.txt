@@ -1,0 +1,26 @@
+новый вариант
+
+<div id="gall">
+<img src="im/1.jpg" tabindex="0" border="3"/>		
+<img src="im/2.jpg" tabindex="0" border="3"/>	
+<img src="im/4.jpg" tabindex="0" border="3" />
+<img src="im/5.jpg" tabindex="0" border="3"/>	
+<div></div>
+</div>
+
+
+Для 1 сайта
+<div style="text-align: center;">		   
+			<a href="1.html"><img src="2BVuJ.jpg" height="10%" border="2" /></a>		
+			<a href="2.html"><img src="deadpool.jpg" height="10%" border="2" /></a>		
+			<a href="3.html"><img src="deadpool-2-5k-m5-1920x1080.jpg" height="10%" border="2" /></a>
+			<a href="4.html"><img src="deadpool-2-2018-6a-1920x1080.jpg" height="10%" border="2" /></a>
+       			<a href="5.html"><img src="Дэдпул-2.jpg" height="10%" border="2" /></a>	
+
+Для 2 сайта
+<img src="97721-JADA-DC-MARVEL-Deadpool-1.jpg" height="30%" border="2" /></a>		
+			<img src="11482276-1164501908820452.jpg" height="30%" border="2" /></a>		
+			<img src="123.jpg" height="30%" border="2" /></a>
+			<img src="Hot-Sell-Free-Brinquedos-6-Funko-Pop-X-Men-Movie-Deadpool-Figure-Cosplay-Anime-Toys-Kids.jpg" height="30%" border="2" /></a>
+       			<img src="custom_marvel_legends_deadpool_2_by_lrcustoms-d5sig54.jpg" height="30%" border="2" /></a>
+		

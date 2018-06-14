@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>Deadpool plus</title>
+</head>
+<center><h1><em>Dead Plus</em></h1></center>
+		<hr>
+		<center><p1><strong><h1>На этом сайте можно найти дополнительные материалы по фильму</h></strong></p></center>
+		<hr>
+		<body>
+		<h1 style="text-align: center;">примеры игрушек по фильму от компании Hot Toys</h1>
+			<div style="text-align: center;">
+			<img src="97721-JADA-DC-MARVEL-Deadpool-1.jpg" height="10%" border="2" /></a>		
+			<img src="11482276-1164501908820452.jpg" height="10%" border="2" /></a>		
+			<img src="123.jpg" height="10%" border="2" /></a>
+			<img src="Hot-Sell-Free-Brinquedos-6-Funko-Pop-X-Men-Movie-Deadpool-Figure-Cosplay-Anime-Toys-Kids.jpg" height="10%" border="2" /></a>
+       			<img src="custom_marvel_legends_deadpool_2_by_lrcustoms-d5sig54.jpg" height="10%" border="2" /></a>	
+		</body>
+</html>
